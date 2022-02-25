@@ -1,4 +1,4 @@
-# React Wordle clone
+# React Wordle Clone
 
 
 ## Getting Started with Create React App
